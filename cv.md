@@ -13,7 +13,7 @@ The ultimate goal of my studying is become web developer. Currently, in short-te
 
 HTML\
 CSS\
-JavaScript\
+JavaScript
 
 ## Code example
 
@@ -46,5 +46,5 @@ Colt Steele's Udemy "Web Development Bootcamp 2021"
 ## Languages
 English B1\
 Belarusian\
-Russian\
+Russian
 
