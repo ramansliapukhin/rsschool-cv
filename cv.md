@@ -2,7 +2,7 @@
 
 ## Contacts
 
-Phone: +375293098135
+Phone: +375293098135\
 Email: ramansliapukhin@gmail.com
 
 ## About me
@@ -11,9 +11,9 @@ The ultimate goal of my studying is become web developer. Currently, in short-te
 
 ## My skills
 
-HTML
-CSS
-JavaScript
+HTML\
+CSS\
+JavaScript\
 
 ## Code example
 
@@ -44,5 +44,7 @@ Colt Steele's Udemy "Web Development Bootcamp 2021"
 [The Odin Project](https://www.theodinproject.com/home)
 
 ## Languages
-English B1
+English B1\
+Belarusian\
+Russian\
 
