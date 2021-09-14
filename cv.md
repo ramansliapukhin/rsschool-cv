@@ -45,6 +45,4 @@ Colt Steele's Udemy "Web Development Bootcamp 2021"
 
 ## Languages
 English B1
-Russian
-Belarusian
 
