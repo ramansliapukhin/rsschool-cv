@@ -40,7 +40,7 @@ function last(x) {
 
 ## Courses and projects
 
-Colt Steele's Udemy "Web Development Bootcamp 2021"
+Colt Steele's Udemy "Web Development Bootcamp 2021"\
 [The Odin Project](https://www.theodinproject.com/home)
 
 ## Languages
