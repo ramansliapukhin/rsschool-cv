@@ -10,6 +10,18 @@ body {
     margin-top: 1%;
     margin-bottom: 1%;
 }
+@media (max-width: 768px) {
+    body {
+        display: flex;
+        flex-direction: column;
+    }
+    main {
+        flex-direction: column;
+    }
+    aside {
+        width: 100%;
+    }
+}
 header {
     background-color: #043442;
     text-align: center;
@@ -30,7 +42,7 @@ main {
     border-bottom: 3px solid #B29155;
 }
 aside {
-    width: 75%;
+    width: 90%;
     background-color: #B29155;
     color: white;
     padding: 1em;
@@ -60,9 +72,8 @@ aside div p {
     text-align: center;
 }
 pre {
-    background-color: white;
-    width: 80%;
     margin: 0 auto;
+    width: 80%;
 }
 footer {
     display: flex;
