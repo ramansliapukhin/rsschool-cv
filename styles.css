@@ -18,8 +18,8 @@ body {
     main {
         flex-direction: column;
     }
-    aside {
-        width: 100%;
+    header h1, h2 {
+        font-size: 1em;
     }
 }
 header {
@@ -32,20 +32,22 @@ header {
 }
 main {
     display: flex;
+    justify-content: space-evenly;
     background-color: #E2F3F9;
 }
 .main-section {
     padding: 1em;
+    flex: 1 2 auto;
 }
 .main-section h2 {
     color: #B29155;
     border-bottom: 3px solid #B29155;
 }
 aside {
-    width: 90%;
     background-color: #B29155;
     color: white;
     padding: 1em;
+    flex-basis: 50%;
 }
 .avatar {
     width: 100%;
@@ -56,7 +58,10 @@ aside h2 {
     border-bottom: 3px solid white;
 }
 aside img {
-    width: 64px;
+    width: 48px;
+}
+aside ul {
+    padding: 0.5em;
 }
 aside div {
     display: flex;
