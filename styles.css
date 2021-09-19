@@ -6,6 +6,9 @@ body {
     font-family: 'Roboto', sans-serif;
     color: #2A2E2D;
     border: 10px solid #043442;
+    border-radius: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
 }
 header {
     background-color: #043442;
@@ -15,14 +18,14 @@ header {
     margin: 0;
     font-size: 2em;
 }
-.main-info {
+main {
     display: flex;
     background-color: #E2F3F9;
 }
-section {
+.main-section {
     padding: 1em;
 }
-article h2, h3 {
+.main-section h2 {
     color: #B29155;
     border-bottom: 3px solid #B29155;
 }
@@ -32,16 +35,32 @@ aside {
     color: white;
     padding: 1em;
 }
-aside img {
+.avatar {
     width: 100%;
     border-radius: 50%;
     border: 5px solid white;
 }
-.main-info p {
+aside h2 {
+    border-bottom: 3px solid white;
+}
+aside img {
+    width: 64px;
+}
+aside div {
+    display: flex;
+    justify-content: flex-start;
+    padding: 5% 5%;
+}
+aside div p {
+    margin-left: 20%;
+}
+.main-section p {
     text-align: center;
 }
 pre {
     background-color: white;
+    width: 80%;
+    margin: 0 auto;
 }
 footer {
     display: flex;
